@@ -33,14 +33,14 @@
 
 
 ## 📆 프로젝트 기간
-- 전체 기간: `YYYY.MM.DD - YYYY.MM.DD`
+- 전체 기간: `2025.05.08 - 2025.06.13`
 - 개발 기간: `YYYY.MM.DD - YYYY.MM.DD`
 
 
 ## 🛠 기술 스택
 
 - Swift / SwiftUI / UIKit / Firebase 등
-- 아키텍처: MVVM / MVC / Clean Architecture 등
+- 아키텍처: MVVM 등
 - 기타 도구: Figma, Notion, GitHub Projects 등
 
 
@@ -79,21 +79,25 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| 홍길동 | iOS Developer | [@hong](https://github.com/hong) |
-| 김개발 | PM | [@devkim](https://github.com/devkim) |
+| 박민아 | PM | [@Ari] |
+| 배연경 | PM | [@Libby] |
+| 정혜승 | Designer | [@Herry] |
+| 김혜서 | Designer | [@Leon] |
+| 김재윤 | iOS Developer | [@Eddey](https://github.com/iameddey) |
+| 서세린 | iOS Developer | [@Cerin](https://github.com/CerinSeo)|
+
+
 
 [🔗 팀 블로그 / 미디엄 링크](https://medium.com/example)
 
 ## 🔖 브랜치 전략
-`(예시)`
 - `main`: 배포 가능한 안정 버전
-- `develop`: 통합 개발 브랜치
+- `Development`: 통합 개발 브랜치
 - `feature/*`: 기능 개발 브랜치
 - `bugfix/*`: 버그 수정 브랜치
 - `hotfix/*`: 긴급 수정 브랜치
 
 ## 🌀 커밋 메시지 컨벤션
-`(예시)`  
 [Gitmoji](https://gitmoji.dev) + [Conventional Commits](https://www.conventionalcommits.org)
 
 ### 예시
